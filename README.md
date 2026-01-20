@@ -88,14 +88,15 @@ The system is highly configurable via `src/config/config.py`. You can adjust:
 
 The pipeline automatically evaluates models using 5-fold cross-validation. Metrics including Accuracy, Precision, Recall, and F1-Score are logged for each experiment. By default, the system selects the best performing model (often SVM or Random Forest) for inference.
 
-## 🤝 Contributing
+## 🤝 Build by
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Made with ❤️ 
 
-## 📝 License
+Star this repo if you find it useful!
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Author
+
+Bongu Rishi AI  Engineer 
+Brand: B My Blood • My Dream • My Legacy
+bogurishi07@gmail.com
+
